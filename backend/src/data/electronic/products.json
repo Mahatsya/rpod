@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "SoundCore Q30",
+        "price": "15000",
+        "image": "/static/products/eletronic/1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Anker PowerCore",
+        "price": "3500",
+        "image": "/static/products/eletronic/2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Case iPhone 15",
+        "price": "1200",
+        "image": "/static/products/eletronic/3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Galaxy Watch 6",
+        "price": "25000",
+        "image": "/static/products/eletronic/4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "JBL Flip 6",
+        "price": "5500",
+        "image": "/static/products/eletronic/5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Logitech G502",
+        "price": "4200",
+        "image": "/static/products/eletronic//6.webp"
+    },
+    {
+        "id": 7,
+        "title": "Anker 735",
+        "price": "2800",
+        "image": "/static/products/eletronic/7.webp"
+    },
+    {
+        "id": 8,
+        "title": "SanDisk 128GB",
+        "price": "2100",
+        "image": "/static/products/eletronic/8.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Spigen Case",
+        "price": "1100",
+        "image": "/static/products/eletronic/9.jpg"
+    },
+    {
+        "id": 10,
+        "title": "HUAWEI FreeBuds 5i",
+        "price": "7000",
+        "image": "/static/products/eletronic/10.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Xiaomi 5000mAh",
+        "price": "2500",
+        "image": "/static/products/eletronic//11.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Kingston 64GB",
+        "price": "1800",
+        "image": "/static/products/eletronic/12.jpg"
+    }
+]

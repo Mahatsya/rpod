@@ -1,0 +1,268 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "userId": 2,
+      "items": [
+        {
+          "id": 4,
+          "title": "Galaxy Watch 6",
+          "price": "25000",
+          "image": "/static/products/eletronic/4.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Case iPhone 15",
+          "price": "1200",
+          "image": "/static/products/eletronic/3.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Anker PowerCore",
+          "price": "3500",
+          "image": "/static/products/eletronic/2.jpg"
+        }
+      ],
+      "total": 29700,
+      "createdAt": "2025-05-16T22:36:29.734Z"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "items": [
+        {
+          "id": 2,
+          "title": "Anker PowerCore",
+          "price": "3500",
+          "image": "/static/products/eletronic/2.jpg"
+        }
+      ],
+      "total": 3500,
+      "createdAt": "2025-05-16T22:37:36.720Z"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "items": [
+        {
+          "id": 4,
+          "title": "Galaxy Watch 6",
+          "price": "25000",
+          "image": "/static/products/eletronic/4.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Case iPhone 15",
+          "price": "1200",
+          "image": "/static/products/eletronic/3.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Anker PowerCore",
+          "price": "3500",
+          "image": "/static/products/eletronic/2.jpg"
+        }
+      ],
+      "total": 29700,
+      "createdAt": "2025-05-16T22:37:49.966Z"
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "items": [
+        {
+          "id": 1,
+          "title": "SoundCore Q30",
+          "price": "15000",
+          "image": "/static/products/eletronic/1.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Anker PowerCore",
+          "price": "3500",
+          "image": "/static/products/eletronic/2.jpg"
+        }
+      ],
+      "total": 18500,
+      "createdAt": "2025-05-16T22:38:05.362Z"
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "items": [
+        {
+          "id": 3,
+          "title": "Case iPhone 15",
+          "price": "1200",
+          "image": "/static/products/eletronic/3.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Anker PowerCore",
+          "price": "3500",
+          "image": "/static/products/eletronic/2.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Galaxy Watch 6",
+          "price": "25000",
+          "image": "/static/products/eletronic/4.jpg"
+        }
+      ],
+      "total": 29700,
+      "createdAt": "2025-05-16T22:39:23.813Z"
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "items": [
+        {
+          "id": 2,
+          "title": "Anker PowerCore",
+          "price": "3500",
+          "image": "/static/products/eletronic/2.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Case iPhone 15",
+          "price": "1200",
+          "image": "/static/products/eletronic/3.jpg"
+        }
+      ],
+      "total": 4700,
+      "createdAt": "2025-05-16T22:41:42.400Z"
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "items": [
+        {
+          "id": 1,
+          "title": "SoundCore Q30",
+          "price": "15000",
+          "image": "/static/products/eletronic/1.jpg"
+        }
+      ],
+      "total": 15000,
+      "createdAt": "2025-05-16T22:54:11.743Z"
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "items": [
+        {
+          "id": 5,
+          "title": "JBL Flip 6",
+          "price": "5500",
+          "image": "/static/products/eletronic/5.jpg"
+        },
+        {
+          "id": 1,
+          "title": "SoundCore Q30",
+          "price": "15000",
+          "image": "/static/products/eletronic/1.jpg"
+        }
+      ],
+      "total": 20500,
+      "createdAt": "2025-05-16T23:03:35.636Z"
+    },
+    {
+      "id": 9,
+      "userId": 2,
+      "items": [
+        {
+          "id": 3,
+          "title": "Case iPhone 15",
+          "price": "1200",
+          "image": "/static/products/eletronic/3.jpg"
+        }
+      ],
+      "total": 1200,
+      "createdAt": "2025-05-16T23:10:51.547Z"
+    },
+    {
+      "id": 10,
+      "userId": null,
+      "items": [
+        {
+          "id": 3,
+          "title": "Case iPhone 15",
+          "price": "1200",
+          "image": "/static/products/eletronic/3.jpg"
+        }
+      ],
+      "total": 1200,
+      "createdAt": "2025-05-16T23:38:47.299Z"
+    },
+    {
+      "id": 11,
+      "userId": null,
+      "items": [
+        {
+          "id": 3,
+          "title": "Case iPhone 15",
+          "price": "1200",
+          "image": "/static/products/eletronic/3.jpg"
+        }
+      ],
+      "total": 1200,
+      "createdAt": "2025-05-16T23:41:33.824Z"
+    },
+    {
+      "id": 12,
+      "userId": 2,
+      "items": [
+        {
+          "id": 2,
+          "title": "Anker PowerCore",
+          "price": "3500",
+          "image": "/static/products/eletronic/2.jpg"
+        }
+      ],
+      "total": 3500,
+      "createdAt": "2025-05-16T23:47:30.134Z"
+    },
+    {
+      "id": 13,
+      "userId": 2,
+      "items": [
+        {
+          "id": 3,
+          "title": "Case iPhone 15",
+          "price": "1200",
+          "image": "/static/products/eletronic/3.jpg"
+        }
+      ],
+      "total": 1200,
+      "createdAt": "2025-05-16T23:48:47.544Z"
+    },
+    {
+      "id": 14,
+      "userId": 3,
+      "items": [
+        {
+          "id": 2,
+          "title": "Anker PowerCore",
+          "price": "3500",
+          "image": "/static/products/eletronic/2.jpg"
+        }
+      ],
+      "total": 3500,
+      "createdAt": "2025-05-16T23:52:03.763Z"
+    },
+    {
+      "id": 15,
+      "userId": 3,
+      "items": [
+        {
+          "id": 1,
+          "title": "SoundCore Q30",
+          "price": "15000",
+          "image": "/static/products/eletronic/1.jpg"
+        }
+      ],
+      "total": 15000,
+      "createdAt": "2025-05-17T00:13:55.703Z"
+    }
+  ]
+}

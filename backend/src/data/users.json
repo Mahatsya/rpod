@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "123@gg.ru",
+      "password": "123123",
+      "cart": [],
+      "favorites": [],
+      "createdAt": "2025-05-16T21:22:08.694Z"
+    },
+    {
+      "id": 2,
+      "email": "123@mail.com",
+      "password": "123123",
+      "cart": [],
+      "favorites": [
+        {
+          "id": 1,
+          "title": "SoundCore Q30",
+          "price": "15000",
+          "image": "/static/products/eletronic/1.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Anker PowerCore",
+          "price": "3500",
+          "image": "/static/products/eletronic/2.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Case iPhone 15",
+          "price": "1200",
+          "image": "/static/products/eletronic/3.jpg"
+        }
+      ],
+      "createdAt": "2025-05-16T21:30:46.188Z"
+    },
+    {
+      "id": 3,
+      "email": "123@jj.com",
+      "password": "123123",
+      "cart": [],
+      "favorites": [
+        {
+          "id": 1,
+          "title": "SoundCore Q30",
+          "price": "15000",
+          "image": "/static/products/eletronic/1.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Case iPhone 15",
+          "price": "1200",
+          "image": "/static/products/eletronic/3.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Anker PowerCore",
+          "price": "3500",
+          "image": "/static/products/eletronic/2.jpg"
+        }
+      ],
+      "createdAt": "2025-05-16T23:49:14.757Z"
+    }
+  ]
+}
