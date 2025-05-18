@@ -82,3 +82,17 @@ npm run dev
 
 API: http://localhost:4000
 
+
+Скриншоты 
+
+![image](https://github.com/user-attachments/assets/376e6de3-acd7-4881-b44a-a9ee530dcb6c)
+![image](https://github.com/user-attachments/assets/38bdd0a4-c25e-4b4e-a917-bd92e7cb42ed)
+![image](https://github.com/user-attachments/assets/46d1c3ce-9901-4166-af6d-84c825488347)
+![image](https://github.com/user-attachments/assets/c08ae032-abbb-4b80-87b7-02febd8d99fe)
+![image](https://github.com/user-attachments/assets/ce16852f-f5de-48f9-880e-9cc6e00f4eed)
+![image](https://github.com/user-attachments/assets/2623e46b-24b2-4ee3-b79c-390cb414e781)
+![image](https://github.com/user-attachments/assets/bd6836e9-8c69-4643-b66b-6aaa54b00775)
+
+
+
+
